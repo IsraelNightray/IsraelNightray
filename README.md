@@ -73,6 +73,16 @@ Hello! 👋 I'm Israel Nightray.
 - LinkedIn: [Israel Nightray](https://www.linkedin.com/in/israel-nightray/)
 - Email: israel_nightray@cienias.unam.mx
 
+
+
+
+---
+
+### "The history of the cruel world remains cyclical, if the very easy solution can be provided by computers, perhaps the ignorance in me can be this proof that demonstrates my humanity."
+
+---
+
+
 <div align="left">
     <a href="https://www.pinterest.com.mx/pin/10485011622457145/">Image by Alexis</a>
 </div>
