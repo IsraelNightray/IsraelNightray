@@ -70,7 +70,7 @@ Hello! 👋 I'm Israel Nightray.
 
 ### Contact Me 🤍
 
-- LinkedIn: [Israel Nightray](https://www.linkedin.com/in/israel-nightray/)
+- LinkedIn: [Israel Nightray](www.linkedin.com/in/israel-nightray-208530317)
 - Email: israel_nightray@cienias.unam.mx
 
 
