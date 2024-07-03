@@ -3,7 +3,7 @@
 </p>
 
 <div align="right">
-    <img align="right" width="400" alt="Shimarin" src="https://i.pinimg.com/564x/c0/d4/3d/c0d43d331020f824ace55f3ad167d88c.jpg"/>
+    <img align="right" width="400" alt="Shimarin" src="https://i.pinimg.com/564x/39/b3/ff/39b3ff43c44c716d4b6b091f31f66390.jpg"/>
 </div>
 
 # About Me
@@ -50,22 +50,29 @@ Hello! 👋 I'm Israel Nightray.
 - ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 - ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 
-## Hardware & IoT 🎛️
+### Tools & Platforms 🔧
 - ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 - ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
-
-## Databases 📥
 - ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 - ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
-## Designing Tools 🔧
+- ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 - ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 - ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 - ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-- ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 
 </details>
 
-<div align="right">
-    <a href="https://www.pinterest.com.mx/pin/12877548929103456/">Image by Anonima</a>
+<h2>GitHub :octocat:</h2>
+
+![IsraelNightray's Streak](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IsraelNightray&theme=tokyonight&hide_border=true)
+![IsraelNightray's Streak](https://github-readme-streak-stats.herokuapp.com/?user=IsraelNightray&theme=tokyonight&hide_border=true)
+![IsraelNightray's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IsraelNightray&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+
+### Contact Me 🤍
+
+- LinkedIn: [Israel Nightray](https://www.linkedin.com/in/israel-nightray/)
+- Email: israel_nightray@cienias.unam.mx
+
+<div align="left">
+    <a href="https://www.pinterest.com.mx/pin/10485011622457145/">Image by Alexis</a>
 </div>
